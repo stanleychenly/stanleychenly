@@ -1,16 +1,20 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&duration=4000&pause=500&color=F367F7&width=435&lines=Welcome+to+my+GitHub!;Feel+free+to+either;shoot+me+an+email%2C;or+connect+with+me+on+LinkedIn!;Thanks+for+visiting!)](https://git.io/typing-svg)
 
-<!--
-**stanleychenly/stanleychenly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm Stanley!
 
-Here are some ideas to get you started:
+#### I'm currently: 
+- 🏫 Software Engineering @ McMaster
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### And previously: 
+- 🏙️ Machine Learning @ Citi
+- 🦁 Full Stack @ Royal Bank of Canada
+- 🔆 Cloud @ Sun Life
+
+#### Fun facts:
+- ⚽ Messi >>> Ronaldo
+- 👒 Have watched 1000+ episodes of One Piece
+- 🤥 One of the above is a lie
+
+#### Feel free to contact me!
+- ✉️ stanleychenly@gmail.com
+- 🔗 www.linkedin.com/in/stanleychenly/
