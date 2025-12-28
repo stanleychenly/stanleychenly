@@ -10,7 +10,7 @@
 - 🦁 Full Stack @ Royal Bank of Canada
 - 🔆 Cloud @ Sun Life
 
-#### Feel free to contact me!
+#### Connect with me!
 - ✉️ stanleychenly@gmail.com
 - 🔗 www.linkedin.com/in/stanleychenly/
 
