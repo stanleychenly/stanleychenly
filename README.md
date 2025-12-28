@@ -6,7 +6,7 @@
 ### 👋 Hi, I'm Stanley!
 
 #### I'm currently:
-- 🏫 Final-Year Software Engineering @ McMaster
+- 🏫 Fourth-Year Software Engineering @ McMaster
 
 #### Previously:
 - 🏙️ Machine Learning @ Citi  
