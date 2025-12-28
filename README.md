@@ -13,8 +13,3 @@
 #### Connect with me!
 - ✉️ [stanleychenly@gmail.com](mailto:stanleychenly@gmail.com)
 - 🔗 [linkedin.com/in/stanleychenly](https://www.linkedin.com/in/stanleychenly/)
-
-#### Fun facts:
-- ⚽ Messi >>> Ronaldo
-- 👒 Have watched 1000+ episodes of One Piece
-- 🤥 One of the above is a lie
