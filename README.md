@@ -13,5 +13,5 @@
 - 🔆 Cloud @ Sun Life  
 
 #### Connect with me!
-- ✉️ [Email](mailto:stanleychenly@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/stanleychenly/)
+- ✉️ [stanleychenly@gmail.com](mailto:stanleychenly@gmail.com)
+- 🔗 [linkedin.com/in/stanleychenly](https://www.linkedin.com/in/stanleychenly/)
