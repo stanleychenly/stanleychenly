@@ -16,6 +16,6 @@
 #### Connect with me!
 - ✉️ [stanleychenly@gmail.com](mailto:stanleychenly@gmail.com)
 - 🔗 [linkedin.com/in/stanleychenly](https://www.linkedin.com/in/stanleychenly/)
-- 🔗 [stanleychenly.com/](https://www.stanleychenly.com/)
+- 🔗 [stanleychenly.com](https://www.stanleychenly.com/)
 
 <br clear="right" />
